@@ -1,2 +1,7 @@
-# bk-a11202012805
-Iqbal Hasanu Hamdani A11202012805 Poliklinik Sumber Sehat
+# Admin
+- username = admin
+- pass = admin
+
+# Dokter
+- nip = iqbal123
+- password = iqbal
